@@ -1,0 +1,1 @@
+This project includes Machine Learning application deployment on various cloud platforms, such as AWS EC2, AZURE etc.
