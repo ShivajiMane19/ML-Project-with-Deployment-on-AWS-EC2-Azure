@@ -1,1 +1,2 @@
 This project includes Machine Learning application deployment on various cloud platforms, such as AWS EC2, AZURE etc.
+This is the End-to-End Machine Learning project for practicing ML project implementation and deployment of it on cloud platform.
